@@ -1,4 +1,4 @@
-# AARTryOn# AARTryON アプリ
+# AARTryON アプリ
 アクセサリーARで試着できる
 
 ### アプリ動画
